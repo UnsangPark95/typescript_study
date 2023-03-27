@@ -14,11 +14,11 @@ Chapter 05 - 박기정 <br/>
 Chapter 06 - 오준석 <br/>
 Chapter 07 - 박상은 <br/>
 
-<b>2023/03/29 <br/></b>
+<b>2023/03/27 <br/></b>
 Chapter 08 - 박운상 <br/>
-Chapter 09 - 이하진 <br/>
 
 <b>2023/04/05 <br/></b>
+Chapter 09 - 이하진 <br/>
 Chapter 10 - 박기정 <br/>
 Chapter 11 - 오준석 <br/>
 

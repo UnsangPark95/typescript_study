@@ -19,13 +19,13 @@ Chapter 08 - 박운상 <br/>
 
 <b>2023/04/05 <br/></b>
 Chapter 09 - 이하진 <br/>
-Chapter 10 - 박기정 <br/>
 Chapter 11 - 오준석 <br/>
 
 <b>2023/04/12 <br/></b>
-Chapter 12 - 박상은 <br/>
-Chapter 13 - 박운상 <br/>
+Chapter 10 - 박상은 <br/>
+Chapter 12 - 박운상 <br/>
+Chapter 13 - 이하진 <br/>
 
 <b>2023/04/19 <br/></b>
-Chapter 14 - 이하진 <br/>
-Chapter 15 - 박기정 <br/>
+Chapter 14 - 오준석 <br/>
+Chapter 15 - 박상은 <br/>
